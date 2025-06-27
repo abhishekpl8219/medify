@@ -1,5 +1,4 @@
 import React from "react";
-// import Navbar from "../components/NavBar/Navbar";
 import Hero from "./../components/Hero/Hero";
 import Dropdown from "../components/Dropdown/Dropdown";
 import NavBar from "../components/Navbar/Navbar";
