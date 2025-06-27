@@ -6,7 +6,7 @@ import NavBar from "../components/Navbar/Navbar";
 const Landing = () => {
   return (
     <div>
-      <NavBar/>
+      <NavBar />
       <Hero />
       <Dropdown />
     </div>
