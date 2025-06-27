@@ -1,6 +1,6 @@
 import React from "react";
 import { useTheme } from "@mui/material/styles";
-import "./NavBar.css";
+import "./Navbar.css";
 import logo from "./../../images/Group 7.png";
 import { useNavigate } from "react-router";
 
